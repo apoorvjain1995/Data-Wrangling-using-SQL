@@ -1,6 +1,5 @@
-# Data Cleaning using SQL
-## Project Overview
-### In this project, we are going to clean Nashville Housing dataset. We are going to do as the following tasks:
+# Project Overview
+## In this project, we are going to clean Nashville Housing dataset. We are going to do as the following tasks:
 * Standardize date format
 * Populate missing property address data
 * Parsing long-formatted address into individual columns (Address, City, State)
