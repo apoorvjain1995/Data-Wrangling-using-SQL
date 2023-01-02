@@ -5,6 +5,7 @@
 * Parsing long-formatted address into individual columns (Address, City, State)
 * Standardize “Sold as Vacant” field (from Y/N to Yes and No)
 * Remove Duplicates
+
 [Project Files](https://github.com/apoorvjain1995/Data-Wrangling-using-SQL)
 
 # Project Outcome
