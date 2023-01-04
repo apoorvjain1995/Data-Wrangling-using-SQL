@@ -1,10 +1,10 @@
 # Project Overview
 > In this project, we are going to clean Nashville Housing dataset. We have performed to do as the following tasks:
-* Standardize date format
-* Populate missing property address data
-* Parsing long-formatted address into individual columns (Address, City, State)
-* Standardize “Sold as Vacant” field (from Y/N to Yes and No)
-* Remove Duplicates
+* Standardize date format using **Date Function**.
+* Populate missing property address data using **joins**.
+* Parsing long-formatted address into individual columns (Address, City, State) using **substring function**. 
+* Standardize “Sold as Vacant” field (from Y/N to Yes and No) using **case statements**.
+* Remove Duplicates using **window functions**.
 
 [Project Files](https://github.com/apoorvjain1995/Data-Wrangling-using-SQL)
 
